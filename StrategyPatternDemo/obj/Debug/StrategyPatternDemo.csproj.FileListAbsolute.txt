@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\StrategyPatternDemo.exe.config
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\StrategyPatternDemo.exe
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\StrategyPatternDemo.pdb
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.exe
+C:\Users\User\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.pdb
